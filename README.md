@@ -1,43 +1,49 @@
-<p align="center"><img src="https://github.com/is-a-good-dev/register/blob/main/logo_circle.png" height="96" width="96"></p>
-<h1 align="center">is-a-good.dev</h1>
-
-<p align="center">A free subdomain provider for developers around the globe.</p>
-<p align="center">Thanks to our <a href="#sponsors">sponsors</a> for keeping this project running.</p>
-
-## 2024 Update:
-We now support Vercel!
-
-## Register
-Please read the [documentation](https://docs.is-a-good.dev) to register a new domain manually.
-
-Or if you want to register a domain using your command line, you can check out our [CLI](https://github.com/is-a-good-dev/cli).
-
----
-
-Your pull request **will not** be merged if:
-- You already own a subdomain on our service.
-- The records provided includes invalid/unpermitted record types. If this happens we will notify you and request changes.
-- It violates users privacy.
-- It uses Netlify, as there are issues with subdomain verification. We hope to add support back soon.
-- The domain is not being used for a valid website/blog/portfolio/api application. This is reviewed on a case by case basis.
-
-*If your subdomain is inactive, it may be purged. We will try and notify you before purging via the email you provided.*
-
-## Sponsors
-
-### BlueFoxHost
-A new take on reliable and affordable hosting. BlueFoxHost provides stable services while maintaining efficient customer service.
-We currently offer Minecraft hosting, Discord Bot hosting, and Terraria hosting at affordable prices.
-Use the code: `STARTED20` for 20% off of your first month!
-
-- Website: [https://bluefoxhost.com](https://bluefoxhost.com)
-- Discord: [https://discord.gg/jzCDhUU7uH](https://discord.gg/jzCDhUU7uH)
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN"
+"http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><title>WAPFTP CLIENT wapftp.7m.pl | 22-Apr-2025 Jakarta Indonesia</title>
+<meta http-equiv="expires" content="0"/>
+<meta http-equiv="Content-Language" content="en-us"/>
+<meta http-equiv="content-type" content="Text/html;
+charset=UTF-8"/>
+<meta name="description" content="WapFTP Client is a managing files websites using a browser. Edit code, upload and download files, copy,move,delete and directories recursively, rename files and directories."/>
+<meta name="keywords" content="Wap,ftp,client,secure,wapftp,ssl,username,password,port,whois,unzip,php"/>
+<meta name="copyright" content="Copyright (c) 2025 wap-ftp.eu.org"/>
+<meta name="author" content="hostmaster@wap-ftp.eu.org"/>
+<meta name="charset"
+content="UTF-8"/>
+<meta name="distribution" content="Global"/>
+<meta name="rating" content="General"/>
+<meta name="robots" content="Index,follow"/>
+<meta name="revisit-after" content="3 Day"/>
+<link rel="shortcut icon" href="https://wap-ftp.eu.org/favicon.ico"/>
+<link rel="stylesheet" href="https://wap-ftp.eu.org/style.css" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic" rel="stylesheet" type="text/css"> 
+<link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700" rel="stylesheet" type="text/css">
+</head><body><div id="ads" style="display:none;width: 100%;height: 90px;text-align: center;padding: 10px 0;"></div><script> if(window.adsbygoogle){ adsbygoogle = window.adsbygoogle; }else{ adsbygoogle = new Array(); } adsbygoogle .push({ google_ad_client: "ca-pub-6469407771801779", enable_page_level_ads: true });</script><div id="ads" style="display:none;width: 100%;height: 90px;text-align: center;padding: 10px 0;"></div><script> if(window.adsbygoogle){ adsbygoogle = window.adsbygoogle; }else{ adsbygoogle = new Array(); } adsbygoogle .push({ google_ad_client: "ca-pub-6469407771801779", enable_page_level_ads: true });</script>
 
 
-## Links
-- [Website](https://is-a-good.dev)
-- [Documentation](https://docs.is-a-good.dev)
-- [Discord Server](https://discord.gg/vmVaAn8YcK)
+<div id="header"><div class="main-wrap" class="clearfix leftblk"> <h1>
+<tbody> 
+<tr> 
+<td>&nbsp;&nbsp;&nbsp;<img src="https://wap-ftp.eu.org/images/logo1.png"/><a href="./index.php?set=46" style="color:#464d69;"></td><td>wap-ftp.eu.org</a><br/></td></tr></tbody></div></h1><div class="topnav nav"> <a href="https://whois.moresms.eu.org/index.php?client=dns&domain=moresms.eu.org&id=46">Whois</a>&nbsp;|&nbsp;<a href="https://wap-ftp.eu.orgindex.php?guestbook=46">Guestbook</a>&nbsp;|&nbsp;<a href="https://wap-ftp.eu.org/index.php?contact=46">Contact Us</a></div><div id="wrapper"><div class="content">
+<div class="info menu" style="text-align:center;color:green;">&nbsp"
+ </div>
 
-### Similar Projects
-See [Free For Life](https://free.hrsn.dev/#/?id=domains) for similar projects.
+<div class="menu"><center><ul><li><a href="https://wap-ftp.eu.org/index.php?ftp=index&sett=46"><b>Click here to proceed to Safe WAPFTP Service</b></a></li><br><li><a href="https://wap-ftp.eu.org/index.php?whoisdomain=46">Whois Domain Info</a></li><br><li><a href="https://wap-ftp.eu.org/freedns.php?free=46">Free dns List</a></li><br><li><a href="https://wap-ftp.eu.org/freehosting.php?free=46">Free hosting List</a></li></ul></center><br class="clear"/></div><div class="menu_j">
+<div class="content" style="text-align: center;">
+<form action="https://wap-ftp.eu.org/partner.php" method="post">
+<span style="color: #663399;">&nbsp;Partner Site:&nbsp;&nbsp;<select style="border: 1px solid #5F9EA0; padding: 1px; class="title56" name="partner"> 
+<option value="moresms.iz.rs" selected="selected">moresms.iz.rs</option>
+<option value="wapftp.net.eu.org">wapftp.net.eu.org</option>
+<option value="whoisdomain.eu.org">whoisdomain</option>
+<option value="filemanager.net.eu.org">filemanager</option>
+<option value="realwap.eu.org">realwap</option> 
+</select>&nbsp;&nbsp;&nbsp;<input type="submit" value="&nbsp;&nbsp;Go&nbsp;&nbsp;"/></form>
+</span>
+</div>
+</div>
+</div>
+<div class="footer"><div></div><small>Online: <a style="color: #63687a; text-decoration: none;" href="https://wap-ftp.eu.org/stats.php">16</a> | Today: 153 | Total: 14403</small></div></div><div class="footer"><center><small>Executed in 0.1026777 sec.</small><div>&copy;&nbsp;2010&nbsp;-&nbsp;2025&nbsp;&nbsp;&nbsp;<a href="index.php?r=46">wap-ftp.eu.org</a>.<div/><small>All&nbsp;Rights&nbsp;Reserved.&nbsp;Powered&nbsp;by&nbsp;:&nbsp;<a href="http://github.io" style="color: #63687a; text-decoration: none;">GITHUB</a>.IO</small>
+<script style="display:none;"></div><div id="ads_bottom_static" style="display:none;width: 100%;height: 90px;text-align: center;padding: 10px 0;"></div><script src="https://s.7m.pl/robot.js"></script></body>
+</html>
