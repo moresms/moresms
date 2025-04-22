@@ -19,6 +19,6 @@
 </div>
 </div>
 </div>
-<div class="footer"><div></div><small>Online: <a style="color: #63687a; text-decoration: none;" href="https://wap-ftp.eu.org/stats.php">16</a> | Today: 153 | Total: 14403</small></div></div><div class="footer"><center><small>Executed in 0.1026777 sec.</small><div>&copy;&nbsp;2010&nbsp;-&nbsp;2025&nbsp;&nbsp;&nbsp;<a href="index.php?r=46">wap-ftp.eu.org</a>.<div/><small>All&nbsp;Rights&nbsp;Reserved.&nbsp;Powered&nbsp;by&nbsp;:&nbsp;<a href="http://github.io" style="color: #63687a; text-decoration: none;">GITHUB</a>.IO</small>
+<div class="footer"><div></div><small>Online: <a style="color: #63687a; text-decoration: none;" href="https://wap-ftp.eu.org/stats.php">16</a> | Today: 153 | Total: 14403</small></div></div><div class="footer"><center><small>Executed in 0.1026777 sec.</small><div>&copy;&nbsp;2010&nbsp;-&nbsp;2025&nbsp;&nbsp;&nbsp;<a href="index.html">wap-ftp.eu.org</a>.<div/><small>All&nbsp;Rights&nbsp;Reserved.&nbsp;Powered&nbsp;by&nbsp;:&nbsp;<a href="http://github.io" style="color: #63687a; text-decoration: none;">GITHUB</a>.IO</small>
 </body>
 </html>
