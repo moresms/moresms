@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/moresms/moresms/tree/Tweak4141-patch-1/docs",
+
+    "owner": {
+        "username": "moresms",
+        "email": "moresms@hotmail.com"
+    },
+
+    "target": {
+        "CNAME": {
+            "name": "moresms",
+            "value": "moresms.github.io"
+        }
+    },
+
+    "proxied": false
+}
